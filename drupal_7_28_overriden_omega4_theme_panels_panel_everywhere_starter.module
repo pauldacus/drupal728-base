@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal-7.28 Overriden Omega4 theme, panels, panel everywhere starter feature.
+ */
+
+include_once 'drupal_7_28_overriden_omega4_theme_panels_panel_everywhere_starter.features.inc';
